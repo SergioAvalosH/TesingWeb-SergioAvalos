@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f969c3d-72be-4ffc-b242-a8c74dd9c147" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../..//Nueva carpeta/Hola/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//Nueva carpeta/Hola/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//Nueva carpeta/Hola/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//Nueva carpeta/Hola/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//Nueva carpeta/Hola/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//Nueva carpeta/Hola/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//Nueva carpeta/Hola/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//Nueva carpeta/Hola/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//Nueva carpeta/Hola/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../..//Nueva carpeta/Hola/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+  </component>
+  <component name="ProjectId" id="2D20x467c04lmKklUDQEYkGDcHv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "G:/TESTING/CursoDeApis/CursoDeApis"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f969c3d-72be-4ffc-b242-a8c74dd9c147" name="Changes" comment="" />
+      <created>1659882130881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659882130881</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
